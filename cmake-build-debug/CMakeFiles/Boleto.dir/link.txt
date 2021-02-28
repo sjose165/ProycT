@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Boleto.dir/main.cpp.o CMakeFiles/Boleto.dir/libutils.cpp.o  -o Boleto 
